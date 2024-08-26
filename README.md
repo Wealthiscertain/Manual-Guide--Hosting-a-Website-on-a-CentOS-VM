@@ -127,6 +127,7 @@ In my previous article, I provided a [Step-by-Step Guide to Creating a CentOS VM
 
 **12. Restart the httpd Service**
 - Ensure the **httpd** service is running smoothly by restarting it and checking its status:
+  
 **- systemctl start httpd**
 **- systemctl status httpd**
 
