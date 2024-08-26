@@ -3,6 +3,7 @@
 In my previous article, I provided a [Step-by-Step Guide to Creating a CentOS VM with Vagrant](https://medium.com/@wealthiscertain/step-by-step-guide-to-creating-a-centos-vm-with-vagrant-9b67ccb5916e). In this post, I'll walk you through the process of hosting an HTML template on CentOS with the help of **httpd** on a Vagrant-managed VM.
 
 **Tools used**
+
 **- Ready-made template:** Free HTML website templates from [tooplate.com]
 **- Vagrant:** Automates the creation and management of virtual environments.
 **- CentOS:** A free, enterprise-class Linux distribution, ideal for server environments.
