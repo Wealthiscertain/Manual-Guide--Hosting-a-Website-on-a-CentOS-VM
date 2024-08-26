@@ -128,8 +128,8 @@ In my previous article, I provided a [Step-by-Step Guide to Creating a CentOS VM
 **12. Restart the httpd Service**
 - Ensure the **httpd** service is running smoothly by restarting it and checking its status:
   
-**- systemctl start httpd**
-**- systemctl status httpd**
+   **- systemctl start httpd**
+   **- systemctl status httpd**
 
 **13. Verify the Website**
 Visit **http://192.168.56.22/** in your browser to confirm the website is up and running.
